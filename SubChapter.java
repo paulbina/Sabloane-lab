@@ -26,11 +26,11 @@ public class SubChapter {
         this.c =c;
     }
 
-    public void print() {
+   /* public void print() {
         System.out.println("Subchapter: " + s );
-        for (int i=0;i<this.Paragraph.size();i++)
-            System.out.println(this.Paragraph.get(i).getA());
+        //for (int i=0;i<this.Paragraph.size();i++)
+            //System.out.println(this.Paragraph.get(i).getA());
         System.out.println("Imagine with name: " + b);
         System.out.println("Table with Title: " + c);
-    }
+    }*/
 }
